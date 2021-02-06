@@ -3,7 +3,7 @@ module github.com/zyc737347123/go-gin-example
 go 1.15
 
 replace (
-	github.com/zyc737347123/go-gin-example/conf => ./pkg/conf
+	github.com/zyc737347123/go-gin-example/conf => ./conf
 	github.com/zyc737347123/go-gin-example/middleware => ./middleware
 	github.com/zyc737347123/go-gin-example/models => ./models
 	github.com/zyc737347123/go-gin-example/pkg/e => ./pkg/e
