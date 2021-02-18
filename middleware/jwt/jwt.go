@@ -1,7 +1,6 @@
 package jwt
 
 import (
-	"go/token"
 	"time"
 	"net/http"
 
